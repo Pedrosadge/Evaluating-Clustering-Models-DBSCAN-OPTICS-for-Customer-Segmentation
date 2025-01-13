@@ -1,0 +1,1 @@
+Proyek ini membandingkan performa dua algoritma clustering berbasis densitas, yaitu DBSCAN (Density-Based Spatial Clustering of Applications with Noise) dan OPTICS (Ordering Points to Identify the Clustering Structure) dalam mengelompokkan data pelanggan menggunakan dataset Mall Customer Segmentation.
